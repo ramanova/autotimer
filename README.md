@@ -1,5 +1,1 @@
 
-
-Dependencies:
-
-- selenium
